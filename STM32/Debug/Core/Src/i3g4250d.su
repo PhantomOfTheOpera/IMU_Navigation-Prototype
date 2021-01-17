@@ -1,0 +1,12 @@
+i3g4250d.c:101:6:I3G4250D_Init	24	static
+i3g4250d.c:124:6:I3G4250D_DeInit	4	static
+i3g4250d.c:133:9:I3G4250D_ReadID	16	static
+i3g4250d.c:152:6:I3G4250D_RebootCmd	16	static
+i3g4250d.c:172:6:I3G4250D_LowPower	24	static
+i3g4250d.c:186:6:I3G4250D_INT1InterruptConfig	24	static
+i3g4250d.c:217:6:I3G4250D_EnableIT	24	static
+i3g4250d.c:247:6:I3G4250D_DisableIT	24	static
+i3g4250d.c:274:6:I3G4250D_FilterConfig	24	static
+i3g4250d.c:298:6:I3G4250D_FilterCmd	24	static
+i3g4250d.c:318:9:I3G4250D_GetDataStatus	16	static
+i3g4250d.c:333:6:I3G4250D_ReadXYZAngRate	48	static

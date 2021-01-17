@@ -1,0 +1,16 @@
+main.c:89:6:error	8	static
+main.c:94:6:success	8	static
+main.c:101:16:I2C_Read	40	static
+main.c:110:13:I2C_Write	40	static
+main.c:117:9:I2C_ReadID	24	static
+main.c:125:6:Accel_Ini	16	static
+main.c:140:6:Accel_GetXYZ	40	static
+main.c:156:6:Mag_Ini	16	static
+main.c:169:6:Mag_GetXYZ	40	static
+main.c:184:6:GetAndCompareLen	16	static
+main.c:207:5:main	64	static
+main.c:297:6:SystemClock_Config	128	static
+main.c:344:13:MX_NVIC_Init	8	static
+main.c:358:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:380:6:Error_Handler	4	static
+main.c:396:6:assert_failed	16	static
